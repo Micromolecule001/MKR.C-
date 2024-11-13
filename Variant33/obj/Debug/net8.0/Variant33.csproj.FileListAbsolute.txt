@@ -1,0 +1,15 @@
+C:\Univ\cp-MKR\Variant33\bin\Debug\net8.0\Variant33.exe
+C:\Univ\cp-MKR\Variant33\bin\Debug\net8.0\Variant33.deps.json
+C:\Univ\cp-MKR\Variant33\bin\Debug\net8.0\Variant33.runtimeconfig.json
+C:\Univ\cp-MKR\Variant33\bin\Debug\net8.0\Variant33.dll
+C:\Univ\cp-MKR\Variant33\bin\Debug\net8.0\Variant33.pdb
+C:\Univ\cp-MKR\Variant33\obj\Debug\net8.0\Variant33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Univ\cp-MKR\Variant33\obj\Debug\net8.0\Variant33.AssemblyInfoInputs.cache
+C:\Univ\cp-MKR\Variant33\obj\Debug\net8.0\Variant33.AssemblyInfo.cs
+C:\Univ\cp-MKR\Variant33\obj\Debug\net8.0\Variant33.csproj.CoreCompileInputs.cache
+C:\Univ\cp-MKR\Variant33\obj\Debug\net8.0\Variant33.sourcelink.json
+C:\Univ\cp-MKR\Variant33\obj\Debug\net8.0\Variant33.dll
+C:\Univ\cp-MKR\Variant33\obj\Debug\net8.0\refint\Variant33.dll
+C:\Univ\cp-MKR\Variant33\obj\Debug\net8.0\Variant33.pdb
+C:\Univ\cp-MKR\Variant33\obj\Debug\net8.0\Variant33.genruntimeconfig.cache
+C:\Univ\cp-MKR\Variant33\obj\Debug\net8.0\ref\Variant33.dll
