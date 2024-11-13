@@ -7,6 +7,7 @@ class Program
     {
         // INPUT
         int N = int.Parse(File.ReadAllText("INPUT.TXT"));
+        Console.WriteLine($"INPUT.TXT: {N} \n");
 
         // dotal dot amount 
         long totalDiamonds = 0;
@@ -20,8 +21,7 @@ class Program
 
         // OUTPUT
         File.WriteAllText("OUTPUT.TXT", totalDiamonds.ToString());
-
-        Console.WriteLine($"Сумарна кількість точок: {totalDiamonds}");
+        Console.WriteLine($"OUTPUT.TXT: {totalDiamonds}");
     }
 }
 
